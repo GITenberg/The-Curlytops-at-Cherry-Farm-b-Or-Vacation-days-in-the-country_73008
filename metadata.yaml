@@ -5,6 +5,9 @@ contributor:
     agent_name: Greene, Julia
     gutenberg_agent_id: '9693'
     url: http://www.gutenberg.org/2009/agents/9693
+covers:
+- cover_type: archival
+  image_path: 73008-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -19,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/32638
     - https://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73008#The-Curlytops-at-Cherry-Farm-b-Or-Vacation-days-in-the-country
 gutenberg_issued: '2024-02-21'
 gutenberg_type: Text
 identifiers:
